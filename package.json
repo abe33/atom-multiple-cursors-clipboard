@@ -1,7 +1,7 @@
 {
   "name": "multiple-cursors-clipboard",
   "main": "./lib/multiple-cursors-clipboard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Monkey patch Atom to offer proper multicursors clipboard handling",
   "repository": "https://github.com/abe33/atom-multiple-cursors-clipboard",
   "license": "MIT",
